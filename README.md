@@ -5,7 +5,7 @@
 - I like to code in a cafe with a good view or in an unconventional space 😃
 - I want to work in a place where each individual action has a big ripple effect
 
-### 🤞Contacts
+### 🤞 Contacts
 
 <a href="https://velog.io/@nuyh99/series" target="_blank"><img src="https://img.shields.io/badge/nuyh99.log-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="mailto:hjaehyun25@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hjaehyun25@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
