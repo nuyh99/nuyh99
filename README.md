@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/nuyh_99/" target="_blank"><img src="https://img.shields.io/badge/nuyh99-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 ### 🥕 Skills
-
+<p>
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
@@ -20,4 +20,4 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-
+</p>
